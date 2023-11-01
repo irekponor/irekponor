@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @irekponor
-- 👀 I’m interested in ... Front-end development
-- 🌱 I’m currently learning ..UI/UX design.
-- 💞️ I’m looking to collaborate on ... anything that involves building a website
-- 📫 How to reach me ... via email
+- 👀 I’m into ... Front-end development, UI/UX design e.t.c
+- 🌱 I’m currently learning ... Machine Learning
+- 💞️ I’m looking to collaborate on ... Building Websites
+- 📫 You can reach me ... via my social media links
 
 <!---
 irekponor/irekponor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
