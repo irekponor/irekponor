@@ -20,7 +20,7 @@
 
 <!--Intro start--> 
 - 🔭 I’m currently working on **HTML, CSS, Javascript, Web design, App design, php** - 🌱 I’m currently learning **backend languages.**  
-  I've keen interest in becoming a hybrid in programming languages. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** - ⚡ Fun fact about me, should be my never giving up mindset and room to grow and develop in different fields.
+  I've keen interest in becoming a full stack developer. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** - ⚡ Fun fact about me, should be my never giving up mindset and room to grow and develop in different fields.
 <!--Intro end--> 
 
 <!--- stats & Trophy (start) --> 
