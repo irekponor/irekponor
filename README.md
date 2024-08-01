@@ -14,7 +14,7 @@
   </div> <!--h2 without bottom border--> 
   <div id="user-content-toc"> 
   <ul align="center"> 
-    <summary><h3 style="display: inline-block">Wr</h3>Study and write code...</summary> 
+    <summary><h3 style="display: inline-block">Study and write code...</h3></summary> 
   </ul> 
 </div> 
 
