@@ -10,11 +10,11 @@
 
 <!--- snake --> 
 <div align="center"> 
-  <img src="https://github.com/Michaelajayi150/michaelajayi150/blob/main/grid-snake.svg" alt="snake" /></a>
+  <img src="https://github.com/irekponor/irekponor/blob/main/grid-snake.svg" alt="snake" /></a>
   </div> <!--h2 without bottom border--> 
   <div id="user-content-toc"> 
   <ul align="center"> 
-    <summary><h2 style="display: inline-block">Talk Is Cheap, Show Me Your Code</h2></summary> 
+    <summary><h3 style="display: inline-block">Wr</h3>Study and write code...</summary> 
   </ul> 
 </div> 
 
