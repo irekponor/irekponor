@@ -8,11 +8,16 @@
   </ul> 
 </div> 
 
-<div align="center">
+<!--- snake --> 
+<div align="center"> 
+  <img src="https://github.com/Michaelajayi150/michaelajayi150/blob/main/grid-snake.svg" alt="snake" /></a>
+  </div> <!--h2 without bottom border--> 
+  <div id="user-content-toc"> 
+  <ul align="center"> 
+    <summary><h2 style="display: inline-block">Talk Is Cheap, Show Me Your Code</h2></summary> 
+  </ul> 
+</div> 
 
-    <img src="/resources/grid-snake.svg" alt="snake">
-
-</div>
   </div> <!--h2 without bottom border--> 
   <div id="user-content-toc"> 
   <ul align="center"> 
