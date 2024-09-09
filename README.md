@@ -29,7 +29,7 @@
 </div> 
 
 <!--Intro start--> 
-- 🔭 I’m currently working on **Front-end languages e.g html, js, css, etc and some of it's framework and libraries e.g react, bootstrap etc and i'm also working on web and app design.** - 🌱 I’m learning and practicing **backend languages (data assessment, management etc).**  
+- 🔭 I’m currently working on **Front-end languages e.g html, js, css, etc and some of it's framework and libraries e.g react, bootstrap etc and i'm also working on web and app design.** - 🌱 I’m learning and practicing **backend languages (data assessment, data management etc).**  
   I've keen interest in scalable applications and data management. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** or any of my socials link below - ⚡ Fun fact about me, should be my never giving up mindset and room to grow and develop in different fields. PS - My website will be hosted by october ending
 <!--Intro end--> 
 
