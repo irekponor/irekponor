@@ -30,7 +30,7 @@
 
 <!--Intro start--> 
 - 🔭 I’m currently working on **Front-end languages e.g html, js, css, etc and some of it's framework and libraries e.g react, bootstrap etc and i'm also working on web and app design.** - 🌱 I’m currently learning **backend languages (data assesment, management etc).**  
-  I've keen interest in scalable applications and data management. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** - ⚡ Fun fact about me, should be my never giving up mindset and room to grow and develop in different fields.
+  I've keen interest in scalable applications and data management. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** - ⚡ Fun fact about me, should be my never giving up mindset and room to grow and develop in different fields. ps - i'm currently working on my personal website
 <!--Intro end--> 
 
 <!--- stats & Trophy (start) --> 
@@ -77,9 +77,6 @@
   </a> 
   <a href="https://www.instagram.com/emmanuel.iree/?hl=en" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
-  </a> 
-  <a href="" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="facebook" height="50" width="50" />
   </a> 
 </p> 
 
