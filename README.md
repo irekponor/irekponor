@@ -29,8 +29,8 @@
 </div> 
 
 <!--Intro start--> 
-- 🔭 I’m currently working on **Front-end languages e.g html, js, css, etc and some of it's framework and libraries e.g react, bootstrap etc and i'm also working on web and app design.** - 🌱 I’m currently learning **backend languages (data assesment, management etc).**  
-  I've keen interest in scalable applications and data management. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** - ⚡ Fun fact about me, should be my never giving up mindset and room to grow and develop in different fields. ps - i'm currently working on my personal website
+- 🔭 I’m currently working on **Front-end languages e.g html, js, css, etc and some of it's framework and libraries e.g react, bootstrap etc and i'm also working on web and app design.** - 🌱 I’m learning and practicing **backend languages (data assessment, management etc).**  
+  I've keen interest in scalable applications and data management. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** or any of my socials link below - ⚡ Fun fact about me, should be my never giving up mindset and room to grow and develop in different fields. PS - My website will be hosted by october ending
 <!--Intro end--> 
 
 <!--- stats & Trophy (start) --> 
