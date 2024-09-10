@@ -13,7 +13,7 @@
 
 <!--- snake --> 
 <div align="center"> 
-  <img src="https://github.com/irekponor/irekponor/blob/main/grid-snake.svg" alt="snake" /></a>
+  <img src="https://github.com/irekponor/irekponor/blob/main/grid-snake.svg" theme=nord alt="snake" /></a>
   </div> <!--h2 without bottom border--> 
   <div id="user-content-toc"> 
   <ul align="center"> 
