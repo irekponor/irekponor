@@ -1,7 +1,7 @@
 <!--horizontal divider(gradiant)--> 
 <br>
 <h3>Profile Views</h3>
- <p align="left"> <img src="https://profile-counter.glitch.me/irekponor/count.svg" alt="desphixs" /> </p>
+ <p align="left"> <img src="https://profile-counter.glitch.me/irekponor/count.svg" alt="irekponor" /> </p>
  </br>
 
 
