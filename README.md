@@ -30,6 +30,7 @@
   I've keen interest in scalable applications, real-time applicaion and data management. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** or any of my socials link below - My never giving up mindset and room to grow and develop in different fields should be a fun fact about me. ⚡ PS - My website will be hosted by october ending
 <!--Intro end--> 
 **Languages and Tools::**
+Some of them include
 <br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -47,11 +48,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
-
-
-
-
-
 
 <br />
 <br />
