@@ -13,7 +13,7 @@
   </div> <!--h2 without bottom border--> 
   <div id="user-content-toc"> 
   <ul align="center"> 
-    <summary><h5 style="display: inline-block"><i>Programming is vast; therefore, focus your efforts on a specific aspect of programming and strive for mastery, for programming is the key to unlock the potential of innovation and shape the future of our digital world..</i></h5></summary> 
+    <summary><h3 style="display: inline-block"><i>Programming is vast; therefore, focus your efforts on a specific aspect of programming and strive for mastery, for programming is the key to unlock the potential of innovation and shape the future of our digital world..</i></h3></summary> 
   </ul> 
 </div> 
 
