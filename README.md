@@ -8,16 +8,16 @@
   </ul> 
 </div> 
 
-<!--- snake --> 
-<div align="center"> 
-  <img src="https://github.com/irekponor/irekponor/blob/main/grid-snake.svg" alt="snake" /></a>
-  </div> <!--h2 without bottom border--> 
+<div style="text-align: center;">
+  <img width="450px" alt="" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
+</div>
+<!--h2 without bottom border--> 
   <div id="user-content-toc"> 
   <ul align="center"> 
     <summary><h3 style="display: inline-block">Study and write code...</h3></summary> 
   </ul> 
 </div> 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=desphixs&show_icons=true&locale=en" alt="desphixs" /></p>
+
   </div> <!--h2 without bottom border--> 
   <div id="user-content-toc"> 
   <ul align="center"> 
