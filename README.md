@@ -8,7 +8,10 @@
   </ul> 
 </div> 
 
-![Coding GIF](https://i.pinimg.com/originals/3e/91/87/3e9187e48486578b4c41a9f07a188f09.gif)
+<a href="https://github.com/yourusername">
+    <img align="center" width="450px" alt="Coding Focused GIF" style="border-radius: 10px;" src="https://media.giphy.com/media/3o7btPCq0i4w74YQ38/giphy.gif" />
+</a>
+
 
 
 <!--h2 without bottom border--> 
