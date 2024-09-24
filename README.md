@@ -10,17 +10,10 @@
 
 <img align="right" width="850px" alt="GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
 
-<!--h2 without bottom border--> 
-  <div id="user-content-toc"> 
-  <ul align="center"> 
-    <summary><h3 style="display: inline-block">Study and write code...</h3></summary> 
-  </ul> 
-</div> 
-
   </div> <!--h2 without bottom border--> 
   <div id="user-content-toc"> 
   <ul align="center"> 
-    <summary><h2 style="display: inline-block">Coding is the language of the future</h2></summary> 
+    <summary><h2 style="display: inline-block">Programming is vast; therefore, focus your efforts on a specific aspect of programming and strive for mastery, for programming is the key to unlock the potential of innovation and shape the future of our digital world.."</h2></summary> 
   </ul> 
 </div> 
 
