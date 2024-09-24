@@ -8,9 +8,9 @@
   </ul> 
 </div> 
 
-<div style="text-align: center;">
-  <img width="450px" alt="" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
-</div>
+
+  <img align="center" width="450px" alt="" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
+
 <!--h2 without bottom border--> 
   <div id="user-content-toc"> 
   <ul align="center"> 
