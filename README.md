@@ -8,9 +8,7 @@
   </ul> 
 </div> 
 
-
-  <img align="right" width="450px" alt="Coding GIF" style="border-radius: 10px;" src="https://media.giphy.com/media/3o7btPCq0i4w74YQ38/giphy.gif" />
-
+<img width="450px" alt="Coding GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/3e/91/87/3e9187e48486578b4c41a9f07a188f09.gif" />
 
 <!--h2 without bottom border--> 
   <div id="user-content-toc"> 
