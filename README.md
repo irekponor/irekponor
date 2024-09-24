@@ -22,7 +22,7 @@
   I've keen interest in scalable applications, real-time applicaion and data management. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** or any of my socials link below - My never giving up mindset and room to grow and develop in different fields should be a fun fact about me. ⚡ PS - My website will be hosted by october ending
 <!--Intro end--> 
 **Languages and Tools::**
-<br><h6>Some of them include</h6>
+<br><h6><i>Some of them include</i></h6>
 <br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
