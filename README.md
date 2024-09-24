@@ -8,11 +8,7 @@
   </ul> 
 </div> 
 
-<a href="https://github.com/yourusername">
-    <img align="center" width="450px" alt="Coding Focused GIF" style="border-radius: 10px;" src="https://media.giphy.com/media/3o7btPCq0i4w74YQ38/giphy.gif" />
-</a>
-
-
+<img align="right" width="850px" alt="GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
 
 <!--h2 without bottom border--> 
   <div id="user-content-toc"> 
