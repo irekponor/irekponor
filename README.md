@@ -9,7 +9,8 @@
 </div> 
 
 
-  <img align="center" width="800px" alt="coding in progress" style="border-radius: 10px;" src="https://media.giphy.com/media/3o7btPc3zq5nJjqvXG.gif"/>
+  <img align="right" width="450px" alt="Coding GIF" style="border-radius: 10px;" src="https://media.giphy.com/media/3o7btPCq0i4w74YQ38/giphy.gif" />
+
 
 <!--h2 without bottom border--> 
   <div id="user-content-toc"> 
