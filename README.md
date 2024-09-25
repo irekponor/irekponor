@@ -63,21 +63,28 @@
 <!--h2 without bottom border--> 
 <div id="user-content-toc"> 
   <ul align="center"> 
-    <summary><h2 style="display: inline-block">Reach out to Me🤝</h2></summary> 
+    <summary><h4 style="display: inline-block"><i>Reach me via</i></h4></summary> 
   </ul> 
 </div>   
-<!--icons and links--> 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/emmanuel-irekponor-922b74289/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-  </a> 
-  <a href="https://twitter.com/emmanuel_8298" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" />
-  </a> 
-  <a href="https://www.instagram.com/emmanuel.iree/?hl=en" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
-  </a> 
-</p> 
+
+<p id="socialIcons" align="center">
+    <a href="mailto:manigandan.jeff@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/manigandan.jeff-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/manigandand" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-manigandand-blue?style=flat-square&logo=linkedin" /></a>
+    <a href="https://stackoverflow.com/users/4201748/manigandand" alt="StackOverflow">
+        <img src="https://img.shields.io/badge/-manigandand-FE7A16?style=flat-square&logo=stack-overflow&logoColor=FE7A16&labelColor=white" /></a>
+    <a href="https://hub.docker.com/u/manigandanjeff" alt="Dockor">
+        <img src="https://img.shields.io/badge/-manigandanjeff-2496ed?style=flat-square&logo=docker&logoColor=white" /></a>
+    <a href="https://medium.com/@manigandand" alt="Medium">
+        <img src="https://img.shields.io/badge/-@manigandand-03a57a?style=flat-square&logo=Medium&labelColor=000000" /></a>
+    <a href="https://twitter.com/manigandanjeff" alt="Twitter">
+        <img src="https://img.shields.io/badge/-manigandanjeff-1DA1F2?style=flat-square&logo=twitter&logoColor=1DA1F2&labelColor=000" /></a>
+    <a href="https://instagram.com/manigandanjeff" alt="Instagram">
+        <img src="https://img.shields.io/badge/-manigandanjeff-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+    <a href="https://manigandand.com" alt="website">
+        <img src="https://img.shields.io/badge/-manigandand.com-242424?style=flat-square&logo=circle&logoColor=white" /></a>
+</p>
 
 
   <!--- trophy (start) -->
