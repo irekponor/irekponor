@@ -8,7 +8,7 @@
   </ul> 
 </div> 
 
-<img align="right" width="850px" alt="GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 
   </div> <!--h2 without bottom border--> 
   <div id="user-content-toc"> 
