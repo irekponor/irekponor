@@ -68,27 +68,19 @@
 </div>   
 
 <p id="socialIcons" align="center">
-    <a href="mailto:manigandan.jeff@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/manigandan.jeff-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/manigandand" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-manigandand-blue?style=flat-square&logo=linkedin" /></a>
-    <a href="https://stackoverflow.com/users/4201748/manigandand" alt="StackOverflow">
-        <img src="https://img.shields.io/badge/-manigandand-FE7A16?style=flat-square&logo=stack-overflow&logoColor=FE7A16&labelColor=white" /></a>
-    <a href="https://hub.docker.com/u/manigandanjeff" alt="Dockor">
-        <img src="https://img.shields.io/badge/-manigandanjeff-2496ed?style=flat-square&logo=docker&logoColor=white" /></a>
-    <a href="https://medium.com/@manigandand" alt="Medium">
-        <img src="https://img.shields.io/badge/-@manigandand-03a57a?style=flat-square&logo=Medium&labelColor=000000" /></a>
-    <a href="https://twitter.com/manigandanjeff" alt="Twitter">
-        <img src="https://img.shields.io/badge/-manigandanjeff-1DA1F2?style=flat-square&logo=twitter&logoColor=1DA1F2&labelColor=000" /></a>
-    <a href="https://instagram.com/manigandanjeff" alt="Instagram">
-        <img src="https://img.shields.io/badge/-manigandanjeff-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-    <a href="https://manigandand.com" alt="website">
-        <img src="https://img.shields.io/badge/-manigandand.com-242424?style=flat-square&logo=circle&logoColor=white" /></a>
+    <a href="emmanuelirekponor86@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/emmanuel.iree-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/emmanuel-irekponor-922b74289/" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-emmanuel.iree-blue?style=flat-square&logo=linkedin" /></a>
+    <a href="https://x.com/emma_irekponor" alt="Twitter">
+        <img src="https://img.shields.io/badge/-emmanuel.iree-1DA1F2?style=flat-square&logo=twitter&logoColor=1DA1F2&labelColor=000" /></a>
+    <a href="https://www.instagram.com/emmanuel.iree/?hl=en" alt="Instagram">
+        <img src="https://img.shields.io/badge/-emmanuel.iree-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 
   <!--- trophy (start) -->
-   <div align=center> 
+   <div align=center padding-top=30px> 
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source"> 
      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=irekponor&theme=dark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /> 
     </a> 
