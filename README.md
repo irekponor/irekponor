@@ -19,7 +19,7 @@
 
 <!--Intro start--> 
 - 🔭 I’m currently working on **Web development (front-end) e.g html, js, css, etc and some of it's framework and libraries e.g react, bootstrap etc and i'm also working on web and app design.** - 🌱 I’m learning and practicing **Web development (back-end) focusing on data assessment and management.**  
-  I've keen interest in scalable applications, real-time applicaion, API's and data management. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** or any of my socials link below - My never giving up mindset and room to grow and develop in different fields should be a fun fact about me. ⚡ PS - My website will be hosted by october ending
+  I've keen interest in scalable applications, real-time application, API's and data management. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** or any of my socials link below - My never giving up mindset and room to grow and develop in different fields should be a fun fact about me. ⚡ PS - My website will be hosted by october ending
 <!--Intro end--> 
 **Favourite languages and Tools::**
 
