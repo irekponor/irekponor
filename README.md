@@ -69,7 +69,7 @@
 <p id="socialIcons" align="center">
     <a href="mailto:emmanuelirekponor86@gmail.com">
         <img alt="Gmail" src="https://img.shields.io/badge/emmanuel.iree-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/emmanuel-irekponor-922b74289/" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/emmanueliree/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-emmanuel.iree-blue?style=flat-square&logo=linkedin" /></a>
     <a href="https://x.com/emma_irekponor" alt="Twitter">
         <img src="https://img.shields.io/badge/-emmanuel.iree-black?style=flat-square&logo=twitter&logoColor=white&labelColor=000" /></a>
