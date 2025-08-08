@@ -20,7 +20,7 @@
 <!--Intro start--> 
 - 🔭 I’m currently working on **Web development (front-end) e.g html, js, css, etc and some of it's framework and libraries e.g react, bootstrap etc and i'm also working on web and app design.** - 🌱 I’m learning and practicing **Web development (back-end) focusing on data assessment and management.**  
 <!--Intro end--> 
-🔍 I'm combining geography with full stack development, focusing on Geospatial Applications such as **ArcGIS, QGIS, Leaftlet.js**, I also have interest in smart cities, remote sensing, scalable applications, real-time applications, API's and data management. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** or any of my socials link below - My never giving up mindset and room to grow and develop in different fields should be a fun fact about me. ⚡ PS - My website will be hosted by August 🚀
+🔍 I'm combining geography with full stack development, focusing on Geospatial Applications such as **ArcGIS, QGIS, Leaftlet.js**, I also have interest in smart cities, remote sensing, scalable applications, real-time applications, API's and data management. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** or any of my socials link below - My never giving up mindset and room to grow and develop in different fields should be a fun fact about me. ⚡ PS - My website will be hosted this August 🚀
 
 **Favourite languages and Tools::**
 
