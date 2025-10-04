@@ -18,7 +18,7 @@
 </div> 
 
 <!--Intro start--> 
-- 🔭 I’m currently working on **Full stack development e.g ts, js, css, php, etc and some of it's framework and libraries e.g react, bootstrap, node, express etc. In addition i'm actively involved in web and application design.** - 🌱 I’m learning and practicing **integrating full stack development with Geographic Information Systems (GIS) focusing on webmaps, database management systems (DBMS) and geospatial apps.**  
+- 🔭 I’m currently working on **Full stack development e.g ts, js, css, SQL, etc and some of it's framework and libraries e.g react, bootstrap, node, express etc. In addition i'm actively involved in web and application design.** - 🌱 I’m learning and practicing **integrating Full stack development with Geographic Information Systems (GIS) focusing on webmaps, database management systems (DBMS) and geospatial apps.**  
 <!--Intro end--> 
 🔍 I combine GIS with full stack development, using applications such as **ArcGIS, QGIS, Mapbox, Leaftlet.js**, I also have interest in smart cities, remote sensing, scalable applications, real-time applications, API's and data management and i contribute to openstreetmap (OSM) regularly. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** or any of my socials link below - My never giving up mindset and room to grow and develop in different fields should be a fun fact about me. ⚡ PS - My website will be hosted this Month 🚀
 
