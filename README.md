@@ -4,7 +4,7 @@
 <!--h1 without bottom border--> 
 <div id="user-content-toc"> 
   <ul align="center"> 
-    <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-peace.gif?1531849430" width="30"/> Heyyyyy, I'm Emmanuel</h1>
+    <h1><img src="https://media.tenor.com/Tg7Rg5dLW2UAAAAM/peace-out-mirror.gif" width="30"/> Heyyyyy, I'm Emmanuel</h1>
   </ul> 
 </div> 
 
