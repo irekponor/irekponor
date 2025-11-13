@@ -10,11 +10,11 @@
   </div> <!--h2 without bottom border--> 
   <div id="user-content-toc"> 
   <ul align="center"> 
-    <summary><h4 style="display: inline-block"><i>Programming is vast; therefore, focus your efforts on a specific aspect of programming and strive for mastery, for programming is the key to unlock the potential of innovation and shape the future of our digital world..</i></h4></summary> 
+    <summary><h4 style="display: inline-block"><i>By integrating GIS with full-stack development, we transform spatial and location-based data into powerful digital solutions that drive better decisions everywhere...</i></h4></summary> 
   </ul> 
 </div> 
 
-🔍 I combine GIS with full stack development, using applications such as **ArcGIS, QGIS, Mapbox, Leaftlet.js**, I also have interest in smart cities, remote sensing, scalable applications, real-time applications, API's and data management and i contribute to openstreetmap (OSM) regularly. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** or any of my socials link below - My never giving up mindset and room to grow and develop in different fields should be a fun fact about me. ⚡ PS - My website will be hosted this Month 🚀
+🔍 I combine GIS with full stack development, using applications such as **ArcGIS, QGIS, Mapbox, Google Earth Engine, Leaftlet.js**, I also have interest in smart cities, remote sensing, scalable applications, real-time applications, API's and data management and i contribute to openstreetmap (OSM) regularly. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** or any of my socials link below - My never giving up mindset and room to grow and develop in different fields should be a fun fact about me. ⚡ PS - My website will be hosted this Month 🚀
 
 **Favourite languages and Tools::**
 
