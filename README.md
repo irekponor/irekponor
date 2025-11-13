@@ -40,26 +40,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
 
-<br />
-<br />
-<br />
-<!--- stats & Trophy (start) --> 
-<p align="center"> 
-  <!--- stats (start) --> 
-  <table align="center"> 
-    <tr border="none"> 
-      <td width="50%" align="center"> 
-       <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=irekponor&theme=nord&show_icons=true&count_private=true" /> 
- <br></br> 
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=irekponor&theme=nord&hide_border=false" /> 
-</td> 
-      <td width="50%" align="center">
- <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=irekponor&theme=nord&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
-      </td> 
-    </tr> 
-  </table> 
-<!--- stats (end) -->
-
   <!-- Connect with me --> 
 <!--h2 without bottom border--> 
 <div id="user-content-toc"> 
