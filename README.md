@@ -14,7 +14,7 @@
   </ul> 
 </div> 
 
-🔍 I combine GIS with full stack development, using applications and programming languages such as **Typescript, ArcGIS Pro, QGIS, SQL, Mapbox, Google Earth Engine, Leaftlet.js etc**, I also have interest in smart cities, remote sensing, scalable applications, real-time applications, API's and data management and i contribute to openstreetmap (OSM) regularly. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** or any of my socials link below - My never giving up mindset and room to grow and develop in different fields should be a fun fact about me. ⚡ PS - My website will be hosted this Month 🚀
+🔍 I combine GIS with full stack development, using applications such as **ArcGIS Pro, QGIS, Mapbox, Google Earth Engine, Leaftlet.js etc**, I also have interest in smart cities, remote sensing, scalable applications, real-time applications, API's and data management and i contribute to openstreetmap (OSM) regularly. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** or any of my socials link below - My never giving up mindset and room to grow and develop in different fields should be a fun fact about me. ⚡ PS - My website will be hosted this Month 🚀
 
 **Favourite languages and Tools::**
 
