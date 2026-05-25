@@ -14,12 +14,13 @@
   </ul> 
 </div> 
 
-🔍 I combine GIS with full stack development, using applications such as **ArcGIS Pro, QGIS, Mapbox, Google Earth Engine, Leaftlet.js etc**, I also have interest in smart cities, remote sensing, scalable applications, real-time applications, API's and data management and i contribute to openstreetmap (OSM) regularly. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** or any of my socials link below - My never giving up mindset and room to grow and develop in different fields should be a fun fact about me. ⚡ PS - My website will be hosted this Month 🚀
+🔍 I combine AI, machine learning, and GIS, using applications such as **ArcGIS Pro, Python, SQL, Google Earth Engine, TypeScript etc**, I have interest in climate, food security, sustainable cities, etc. I also contribute to openstreetmap (OSM) regularly. - 📫 Feel free to reach me out via my email **emmanuelirekponor86@gmail.com** or any of my socials link below - My never giving up mindset and room to grow and develop in different fields should be a fun fact about me. ⚡ PS - My website will be hosted this Month 🚀
 
 **Favourite languages and Tools::**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
