@@ -10,7 +10,7 @@
   </div> <!--h2 without bottom border--> 
   <div id="user-content-toc"> 
   <ul align="center"> 
-    <summary><h4 style="display: inline-block"><i>By integrating GIS with full-stack development, we transform spatial and location-based data into powerful digital solutions that drive better decisions everywhere...</i></h4></summary> 
+    <summary><h4 style="display: inline-block"><i>Applying AI and geospatial analytics to transform spatial data into intelligent systems and actionable insights...</i></h4></summary> 
   </ul> 
 </div> 
 
