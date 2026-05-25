@@ -14,7 +14,7 @@
   </ul> 
 </div> 
 
-🔍 I combine AI, machine learning, and GIS, using applications such as **ArcGIS Pro, Python, SQL, Google Earth Engine, TypeScript etc**, I have interest in climate, food security, sustainable cities, etc. I also contribute to openstreetmap (OSM) regularly. - 📫 Feel free to reach out to me via my email **emmanuelirekponor86@gmail.com** or any of my socials link below - My never giving up mindset and room to grow and develop in different fields should be a fun fact about me. ⚡ PS - My website will be hosted this Month 🚀
+🔍 I combine AI, machine learning, and GIS, using applications such as **ArcGIS Pro, Python, SQL, Google Earth Engine, TypeScript etc**, I have interest in climate, food security, sustainable cities, etc.- 📫 Feel free to reach out to me via my email **emmanuelirekponor86@gmail.com** or any of my socials link below - My never giving up mindset and room to grow and develop in different fields should be a fun fact about me. ⚡ PS - My website will be hosted this Month 🚀
 
 **Favourite languages and Tools::**
 
