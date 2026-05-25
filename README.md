@@ -14,7 +14,7 @@
   </ul> 
 </div> 
 
-🔍 I combine AI, machine learning, and GIS, using applications such as **ArcGIS Pro, Python, SQL, Google Earth Engine, TypeScript etc**, I also have interest in climate, food security, sustainable cities, etc. - 📫 Feel free to reach out to me via my email **emmanuelirekponor86@gmail.com** or any of my socials link below - Fun fact about me, should be my love for GeoAI
+🔍 I combine AI, machine learning, and GIS, using applications such as **ArcGIS Pro, Python, SQL, Google Earth Engine, TypeScript etc**, I also have interest in climate, food security, sustainable cities, etc. - 📫 Feel free to reach out to me via my email **emmanuelirekponor86@gmail.com** or any of my socials link below.
 
 **Favourite languages and Tools::**
 
